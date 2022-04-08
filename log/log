@@ -1,0 +1,19 @@
+*** Starting uWSGI 2.0.20 (64bit) on [Wed Mar  2 12:02:22 2022] ***
+compiled with version: 9.3.0 on 02 March 2022 03:54:50
+os: Linux-5.4.0-66-generic #74-Ubuntu SMP Wed Jan 27 22:54:38 UTC 2021
+nodename: ecs-a3e0
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /usr/Sacob
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /usr/Sacob/
+your processes number limit is 3578
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+bind(): Cannot assign requested address [core/socket.c line 769]

@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7bca1acb-16a1-4b74-8d42-55fab7ff3c90" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/.postcssrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/build/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/build/check-versions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/build/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/build/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/build/vue-loader.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/build/webpack.base.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/build/webpack.dev.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/build/webpack.prod.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/config/dev.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/config/prod.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/assets/js/message.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/container/Aside.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/container/Header.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/container/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/mall/MallFooter.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/mall/MallHome.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/mall/MallProduct.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/mall/MallPurchase.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/mall/ProductReview.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/marketing/SlideShow.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/operate/Forgot_Password.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/operate/HomePage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/operate/Login.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/operate/Login_Form.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/operate/Register_Form.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/order/OrderDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/order/OrderList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/product/ProductAdd.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/product/ProductBrand.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/product/ProductList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/product/ProductSpecs.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/product/ProductType.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/purchase/Purchase.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/purchase/Supplier.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/return/ReturnGoods.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/return/ReturnReason.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/user/AdminList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/user/ChangePassword.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/user/MyOrder.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/user/PersonalCenter.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/user/RoleList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/user/ShoppingCart.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/user/UserList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/util/NoAccess.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/util/VCharts.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/components/util/weather.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/global/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/img/bgimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/img/logbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/img/title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/setAxios/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/util/countDown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/util/preventRepeatClick.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/src/util/tools.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue-Mall/static/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/css/112.1b2fd73a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/css/159.138cf411.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/css/33.6180ae44.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/css/429.1864d85c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/css/430.6180ae44.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/css/457.244cbd5b.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/css/505.c20afa2e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/css/549.29dcf3c8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/css/653.17d87a99.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/css/770.4a4470df.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/css/app.101436e6.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/css/chunk-vendors.e18646e2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/img/logo-img2.b77d30e7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/img/renshu-img.037bad82.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/112-legacy.b4bc28ab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/112-legacy.b4bc28ab.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/112.b4bc28ab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/112.b4bc28ab.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/159-legacy.a4364c1c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/159-legacy.a4364c1c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/159.2ba11ebb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/159.2ba11ebb.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/33.5d7831b9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/33.5d7831b9.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/429-legacy.952e2ced.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/429-legacy.952e2ced.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/429.38fcb257.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/429.38fcb257.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/430-legacy.a22f4404.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/430-legacy.a22f4404.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/457-legacy.0127333e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/457-legacy.0127333e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/457.0127333e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/457.0127333e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/505-legacy.c6e4c23a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/505-legacy.c6e4c23a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/505.c6e4c23a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/505.c6e4c23a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/549-legacy.78077e6e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/549-legacy.78077e6e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/549.78077e6e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/549.78077e6e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/653-legacy.4aff3e15.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/653-legacy.4aff3e15.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/653.4aff3e15.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/653.4aff3e15.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/770-legacy.e5fee286.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/770-legacy.e5fee286.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/770.f7870cde.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/770.f7870cde.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/app-legacy.dc438f0a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/app-legacy.dc438f0a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/app.ae86fbdb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/app.ae86fbdb.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/chunk-vendors-legacy.859ddd99.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/chunk-vendors-legacy.859ddd99.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/chunk-vendors.f23c00d5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/js/chunk-vendors.f23c00d5.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/css/112.1b2fd73a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/css/159.138cf411.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/css/33.6180ae44.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/css/429.1864d85c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/css/430.6180ae44.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/css/457.244cbd5b.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/css/505.c20afa2e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/css/549.29dcf3c8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/css/653.17d87a99.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/css/770.4a4470df.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/css/app.101436e6.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/css/chunk-vendors.e18646e2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/css/112.1b2fd73a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/css/159.138cf411.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/css/33.6180ae44.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/css/429.1864d85c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/css/430.6180ae44.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/css/457.244cbd5b.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/css/505.c20afa2e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/css/549.29dcf3c8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/css/653.17d87a99.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/css/770.4a4470df.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/css/app.101436e6.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/css/chunk-vendors.e18646e2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/img/logo-img2.b77d30e7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/img/renshu-img.037bad82.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/112-legacy.b4bc28ab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/112-legacy.b4bc28ab.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/112.b4bc28ab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/112.b4bc28ab.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/159-legacy.a4364c1c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/159-legacy.a4364c1c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/159.2ba11ebb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/159.2ba11ebb.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/33.5d7831b9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/33.5d7831b9.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/429-legacy.952e2ced.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/429-legacy.952e2ced.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/429.38fcb257.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/429.38fcb257.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/430-legacy.a22f4404.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/430-legacy.a22f4404.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/457-legacy.0127333e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/457-legacy.0127333e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/457.0127333e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/457.0127333e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/505-legacy.c6e4c23a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/505-legacy.c6e4c23a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/505.c6e4c23a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/505.c6e4c23a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/549-legacy.78077e6e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/549-legacy.78077e6e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/549.78077e6e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/549.78077e6e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/653-legacy.4aff3e15.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/653-legacy.4aff3e15.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/653.4aff3e15.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/653.4aff3e15.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/770-legacy.e5fee286.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/770-legacy.e5fee286.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/770.f7870cde.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/770.f7870cde.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/app-legacy.dc438f0a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/app-legacy.dc438f0a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/app.ae86fbdb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/app.ae86fbdb.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/chunk-vendors-legacy.859ddd99.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/chunk-vendors-legacy.859ddd99.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/chunk-vendors.f23c00d5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/dist/js/chunk-vendors.f23c00d5.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/img/logo-img2.b77d30e7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/img/renshu-img.037bad82.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/112-legacy.b4bc28ab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/112-legacy.b4bc28ab.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/112.b4bc28ab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/112.b4bc28ab.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/159-legacy.a4364c1c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/159-legacy.a4364c1c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/159.2ba11ebb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/159.2ba11ebb.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/33.5d7831b9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/33.5d7831b9.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/429-legacy.952e2ced.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/429-legacy.952e2ced.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/429.38fcb257.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/429.38fcb257.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/430-legacy.a22f4404.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/430-legacy.a22f4404.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/457-legacy.0127333e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/457-legacy.0127333e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/457.0127333e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/457.0127333e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/505-legacy.c6e4c23a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/505-legacy.c6e4c23a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/505.c6e4c23a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/505.c6e4c23a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/549-legacy.78077e6e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/549-legacy.78077e6e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/549.78077e6e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/549.78077e6e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/653-legacy.4aff3e15.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/653-legacy.4aff3e15.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/653.4aff3e15.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/653.4aff3e15.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/770-legacy.e5fee286.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/770-legacy.e5fee286.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/770.f7870cde.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/770.f7870cde.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/app-legacy.dc438f0a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/app-legacy.dc438f0a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/app.ae86fbdb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/app.ae86fbdb.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/chunk-vendors-legacy.859ddd99.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/chunk-vendors-legacy.859ddd99.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/chunk-vendors.f23c00d5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/js/chunk-vendors.f23c00d5.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/run.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/CSS/global.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/book.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/iconfont/iconfont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/iconfont/iconfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/iconfont/iconfont.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/iconfont/iconfont.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/iconfont/iconfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/iconfont/iconfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/iconfont/iconfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/iconfont/iconfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/image/background1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/image/cat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/image/change.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/image/help.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/image/login.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/image/lostandfind.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/image/part_time_job.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/image/post.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/image/register.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/image/sdunft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/image/treeHole.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/part_time_job.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/questionMark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/socialImg/collated.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/socialImg/disliked.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/socialImg/liked.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/socialImg/toCollate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/socialImg/toDislike.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/socialImg/tolike.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/success.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/assets/upload.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/components/findModule.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/components/homePage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/components/login.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/components/lostAndFound.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/components/lostModule.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/components/market.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/components/mutualAid.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/components/partTime_job.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/components/personalCenter.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/components/personalFindModule.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/components/personalLostModule.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/components/personal_information.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/components/personal_lostAndFoundRecord.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/components/personal_organizeTeams.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/components/personal_partime_job.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/components/personal_transactionRecord.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/components/personal_treeHole.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/components/register.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/components/success.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/components/treehole.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/components/userInfo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/managerComponents/managerCenter.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/managerComponents/managerCenter_job.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/managerComponents/managerCenter_lostAndFoundRecord.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/managerComponents/managerCenter_organizeTeams.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/managerComponents/managerCenter_transactionRecord.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/managerComponents/managerCenter_treeHolePost.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/managerComponents/managerCenter_userInformation.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/managerComponents/managerLogin.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/plugins/element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/preventReClick.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/util/countDown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/util/preventRepeatClick.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/src/util/tools.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/static/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shareWeb-master/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件工程实验内容.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="27VcXJgm0EEni13dywGfy1EsWjE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="copyright.profiles" />
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Elford\AppData\Local\Microsoft\WindowsApps\python3.9.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Elford\AppData\Local\Microsoft\WindowsApps\python3.9.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bca1acb-16a1-4b74-8d42-55fab7ff3c90" name="Changes" comment="" />
+      <created>1649408732356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649408732356</updated>
+      <workItem from="1649408733865" duration="145000" />
+      <workItem from="1649408905309" duration="3400000" />
+      <workItem from="1649415258341" duration="864000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sdunft$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1649408954596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/sdunft$manage.coverage" NAME="manage Coverage Results" MODIFIED="1649412275409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
